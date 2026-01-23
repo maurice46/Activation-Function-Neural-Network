@@ -1,0 +1,76 @@
+================ TANH =================
+lr=0.001 | Epochs=100 | Train Acc=0.7686 | Test Acc=0.7531 | Current Threshold:=0.7625 | Threshold@0.75: 37 | Final Test Loss=0.1848
+lr=0.001 | Epochs=200 | Train Acc=0.7475 | Test Acc=0.7344 | Current Threshold:=0.7469 | Threshold@0.75: None | Final Test Loss=0.1820
+lr=0.001 | Epochs=500 | Train Acc=0.7780 | Test Acc=0.7562 | Current Threshold:=0.7594 | Threshold@0.75: 271 | Final Test Loss=0.1697
+lr=0.01  | Epochs=100 | Train Acc=0.7912 | Test Acc=0.7438 | Current Threshold:=0.7562 | Threshold@0.75: 72 | Final Test Loss=0.1699
+lr=0.01  | Epochs=200 | Train Acc=0.8084 | Test Acc=0.7594 | Current Threshold:=0.7750 | Threshold@0.75: 20 | Final Test Loss=0.1738
+lr=0.01  | Epochs=500 | Train Acc=0.8124 | Test Acc=0.7375 | Current Threshold:=0.7719 | Threshold@0.75: 5 | Final Test Loss=0.1922
+lr=0.1   | Epochs=100 | Train Acc=0.7975 | Test Acc=0.7594 | Current Threshold:=0.7719 | Threshold@0.75: 2 | Final Test Loss=0.1812
+lr=0.1   | Epochs=200 | Train Acc=0.8155 | Test Acc=0.7344 | Current Threshold:=0.7719 | Threshold@0.75: 18 | Final Test Loss=0.2117
+lr=0.1   | Epochs=500 | Train Acc=0.7568 | Test Acc=0.7219 | Current Threshold:=0.7906 | Threshold@0.75: 8 | Final Test Loss=0.2161
+
+================ RELU =================
+lr=0.001 | Epochs=100 | Train Acc=0.4730 | Test Acc=0.4437 | Current Threshold:=0.4437 | Threshold@0.75: None | Final Test Loss=0.5556
+lr=0.001 | Epochs=200 | Train Acc=0.7459 | Test Acc=0.7375 | Current Threshold:=0.7562 | Threshold@0.75: 103 | Final Test Loss=0.1730
+lr=0.001 | Epochs=500 | Train Acc=0.7780 | Test Acc=0.7438 | Current Threshold:=0.7656 | Threshold@0.75: 81 | Final Test Loss=0.1806
+lr=0.01  | Epochs=100 | Train Acc=0.7780 | Test Acc=0.7438 | Current Threshold:=0.7688 | Threshold@0.75: 20 | Final Test Loss=0.1840
+lr=0.01  | Epochs=200 | Train Acc=0.8022 | Test Acc=0.7656 | Current Threshold:=0.7656 | Threshold@0.75: 94 | Final Test Loss=0.1809
+lr=0.01  | Epochs=500 | Train Acc=0.8069 | Test Acc=0.7625 | Current Threshold:=0.7906 | Threshold@0.75: 33 | Final Test Loss=0.1743
+lr=0.1   | Epochs=100 | Train Acc=0.4715 | Test Acc=0.4406 | Current Threshold:=0.4406 | Threshold@0.75: None | Final Test Loss=0.5594
+lr=0.1   | Epochs=200 | Train Acc=0.4715 | Test Acc=0.4406 | Current Threshold:=0.4406 | Threshold@0.75: None | Final Test Loss=0.5594
+lr=0.1   | Epochs=500 | Train Acc=0.4715 | Test Acc=0.4406 | Current Threshold:=0.4406 | Threshold@0.75: None | Final Test Loss=0.5594
+
+================ CUSTOM =================
+lr=0.001 | Epochs=100 | Train Acc=0.7537 | Test Acc=0.7344 | Current Threshold:=0.7406 | Threshold@0.75: None | Final Test Loss=0.1774
+lr=0.001 | Epochs=200 | Train Acc=0.7428 | Test Acc=0.7250 | Current Threshold:=0.7375 | Threshold@0.75: None | Final Test Loss=0.1734
+lr=0.001 | Epochs=500 | Train Acc=0.7873 | Test Acc=0.7500 | Current Threshold:=0.7531 | Threshold@0.75: 28 | Final Test Loss=0.1773
+lr=0.01  | Epochs=100 | Train Acc=0.7912 | Test Acc=0.7406 | Current Threshold:=0.7688 | Threshold@0.75: 18 | Final Test Loss=0.1820
+lr=0.01  | Epochs=200 | Train Acc=0.8045 | Test Acc=0.7750 | Current Threshold:=0.7906 | Threshold@0.75: 2 | Final Test Loss=0.1684
+lr=0.01  | Epochs=500 | Train Acc=0.8272 | Test Acc=0.7750 | Current Threshold:=0.7875 | Threshold@0.75: 37 | Final Test Loss=0.1806
+lr=0.1   | Epochs=100 | Train Acc=0.7029 | Test Acc=0.7188 | Current Threshold:=0.7531 | Threshold@0.75: 25 | Final Test Loss=0.1914
+lr=0.1   | Epochs=200 | Train Acc=0.7482 | Test Acc=0.7250 | Current Threshold:=0.7594 | Threshold@0.75: 15 | Final Test Loss=0.1852
+lr=0.1   | Epochs=500 | Train Acc=0.7561 | Test Acc=0.7188 | Current Threshold:=0.7656 | Threshold@0.75: 23 | Final Test Loss=0.1862
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
