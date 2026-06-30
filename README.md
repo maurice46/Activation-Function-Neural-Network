@@ -3,7 +3,8 @@
 A neural network built **entirely from scratch in Python** (no PyTorch, no TensorFlow) to test whether a custom activation function can outperform Tanh and ReLU on gradient flow, training stability, and generalization.
 
 **Author:** Maurice Murillo · Computer Science Senior Seminar, University of Sioux Falls · November 2025
-**Full paper:** [`Research_Paper.pdf`](./Research Paper.pdf)
+
+**Full paper:** [`Research_Paper.pdf`](./Research_Paper.pdf)
 
 > **TL;DR:** The custom activation `0.1x + tanh(x)` achieved the highest testing accuracy (78.88%) and lowest final test loss of any activation tested, while remaining far more stable than ReLU — which failed to learn entirely at higher learning rates.
 
